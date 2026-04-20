@@ -1,2 +1,2 @@
 # Blog-read-only
-博客公开的文件
+博客友链 and 评论
